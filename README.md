@@ -1,2 +1,3 @@
-# docker-mean-stack-ejemplo
-How To Dockerize MEAN Stack A step by step guide with an example project MEDIUM
+# docker mean-stack-ejemplo de MEDIUM
+
+Example Project on how to build and develop mean stack with an example MEDIUM
